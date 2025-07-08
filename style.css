@@ -1,0 +1,12 @@
+.font-montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.shadow-lg {
+    box-shadow: 0 -5px 0 #2563EB, 1px 3px 5px -2px #202020;
+}
+
+.shadow-lg:hover{
+    box-shadow: 0 -5px 0 #2563EB,0 10px 15px -3px #2563EB,
+    0 4px 6px -4px #2563EB;
+}
